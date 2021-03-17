@@ -18,6 +18,8 @@ public class PruebasGit {
         
         System.out.println(a+b+a);
         
+        System.out.println(b/a);
+        
     }
     
 }
