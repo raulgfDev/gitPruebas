@@ -14,7 +14,10 @@ public class PruebasGit {
         
         int b = 10;
         
- GIT        System.out.println(a * b);
+        System.out.println(a * b);
+        
+        System.out.println(a+b+a);
+        
     }
     
 }
